@@ -1,0 +1,19 @@
+# 재생성 가능한 큰 파일
+*.npy
+*.docx
+*.xlsx
+
+# 시스템 파일
+.DS_Store
+__pycache__/
+*.pyc
+.claude/
+
+# seminar1 (이전 버전, seminar2가 최신)
+seminar/
+
+# data (원본 이미지, seminar2에 포함)
+data/
+
+# output (재생성 가능)
+output/
