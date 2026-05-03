@@ -8,6 +8,7 @@
 __pycache__/
 *.pyc
 .claude/
+.omc/
 
 # seminar1 (이전 버전, seminar2가 최신)
 seminar/
@@ -17,3 +18,13 @@ data/
 
 # output (재생성 가능)
 output/
+
+# 외부 코드/대용량 zip
+*.zip
+
+# 작업 스크린샷 / 임시 이미지
+스크린샷*.png
+2610538421_*.jpg
+
+# 선배 논문 샘플 (저작권/외부 자료)
+선배논문셈플/
